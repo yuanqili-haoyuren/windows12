@@ -37,11 +37,20 @@ ssh-add ~/.ssh/id_ed25519
 - $\text{private}(\text{public}(\text{plaintext})) = \text{plaintext}$
 - $\text{public}(\text{private}(\text{plaintext})) = \text{plaintext}$
 
-## Common Git Commands
+### Common Git Commands
 
 ```
 git add ...
 git commit -m "..."
 git push
 ```
+
+### Git Tutorial
+
+- [BitBucket Tutorial](https://www.atlassian.com/git/tutorials/what-is-version-control)
+
+## Text Editors in Command Line
+
+- Emacs
+- Vim
 
